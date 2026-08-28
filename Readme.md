@@ -1,36 +1,243 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
-<h3 align="center">Engineering student who loves turning ideas into working solutions. I’m passionate about software development, problem solving, and technology. I spend my time building projects, practicing DSA, exploring new tools, and learning how things work under the hood. I believe in learning by building and improving through every challenge.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykumar90537&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykumar90537" /> </p>
+<h3 align="center">
+Engineering Student • Software Developer • Problem Solver • Tech Explorer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaykumar90537" alt="akshaykumar90537" /></a> </p>
-
-- 🔭 I’m currently working on [CyberInspect](https://www.cyberinspects.in/)
-
-- 🌱 I’m currently learning **CyberSecurity**
-
-- 👯 I’m looking to collaborate on [CyberInspect](https://www.cyberinspects.in/)
-
-- 💬 Ask me about **DSA and Core CSE Concepts**
-
-- 📫 How to reach me **akshaykumar90537@gmail.com**
-
-- ⚡ Fun fact **I love turning ideas into working projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshaykumar90537/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshaykumar90537/" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay_kumar90537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_kumar90537" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akshaykumar09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshaykumar09" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/akshay_kumar90537/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akshay_kumar90537/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/akshaykumar90537">
+    <img src="https://komarev.com/ghpvc/?username=akshaykumar90537&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/akshaykumar90537?tab=followers">
+    <img src="https://img.shields.io/github/followers/akshaykumar90537?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/akshaykumar90537">
+    <img src="https://img.shields.io/github/stars/akshaykumar90537?label=Stars&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Projects+That+Solve+Real+Problems;Learning+Something+New+Every+Day;DSA+%7C+Web+Development+%7C+Cybersecurity;Turning+Ideas+Into+Working+Solutions" alt="Typing SVG"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykumar90537&show_icons=true&locale=en&layout=compact" alt="akshaykumar90537" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumar90537&show_icons=true&locale=en" alt="akshaykumar90537" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar90537&" alt="akshaykumar90537" /></p>
+I'm an engineering student passionate about **software development, problem solving, cybersecurity, and emerging technologies**.
 
+I enjoy taking an idea from a rough concept and turning it into a working product. Along the way, I spend a lot of time understanding **how things work under the hood**, solving DSA problems, experimenting with new technologies, and building projects that challenge me.
+
+```text
+💡 Think       →   🛠️ Build       →   🐛 Break
+      ↑                                  ↓
+      └──────────── Learn & Improve ─────┘
+```
+
+### 🚀 Currently
+
+* 🔭 Building **[CyberInspect](https://www.cyberinspects.in/)**
+* 🌱 Learning **Cybersecurity & Advanced Software Development**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🔍 Exploring **Web Security, Backend Systems & Modern Technologies**
+* 🤝 Open to collaborating on interesting projects
+* 💬 Ask me about **DSA, C++, Java, Web Development & Core CSE Concepts**
+
+---
+
+# 🧩 Featured Projects
+
+### 🛡️ CyberInspect
+
+> A cybersecurity-focused web platform designed to analyze and inspect security-related aspects of websites.
+
+**Focus:** Cybersecurity • Web Development • Security Analysis
+
+[🌐 Live Website](https://www.cyberinspects.in/) • [💻 Repository](https://github.com/akshaykumar90537)
+
+---
+
+### 🚀 More Projects Coming
+
+I'm continuously building, experimenting, and adding new projects to my GitHub.
+
+<p align="center">
+  <a href="https://github.com/akshaykumar90537?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaykumar90537&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar90537&layout=compact&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=akshaykumar90537&hide_border=true" width="70%"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar90537&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar90537&theme=flat&no-frame=true&margin-w=10&row=1" width="100%"/>
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/akshay_kumar90537/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/akshaykumar09">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akshaykumar90537">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+### 🗄️ Databases & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,arduino,vscode" />
+</p>
+
+---
+
+# 📚 What I'm Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Advanced Problem Solving
+        ↓
+Web Development
+        ↓
+Backend & Databases
+        ↓
+Cybersecurity
+        ↓
+Systems & Core Computer Science
+```
+
+I'm especially interested in understanding not just **how to use a technology**, but **why it works and what happens underneath**.
+
+---
+
+# 🧠 Problem Solving
+
+I regularly practice DSA and algorithmic problem solving.
+
+### Areas I'm working on
+
+* Arrays & Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Stack & Queue
+* Linked Lists
+* Binary Search
+* Recursion & Backtracking
+* Trees & Graphs
+* Greedy Algorithms
+* Dynamic Programming
+* Bit Manipulation
+* Advanced Problem Solving
+
+---
+
+# 📌 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykumar90537&repo=CyberInspect"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/akshaykumar90537?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:akshaykumar90537@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akshaykumar90537/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/akshay_kumar90537">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akshaykumar90537">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Developer Philosophy
+
+<p align="center">
+<i>
+"Don't just learn technology. Build with it, break it, understand it, and build something better."
+</i>
+</p>
+
+<p align="center">
+⭐ If you find something interesting here, feel free to explore my repositories.
+</p>
+
+<p align="center">
+<b>Thanks for visiting my profile! 🚀</b>
+</p>
