@@ -68,7 +68,7 @@ I'm continuously building, experimenting, and adding new projects to my GitHub.
 </p>
 
 
-# 💻 Coding Profiles
+## 💻 Coding Profiles
 
 <p align="center">
 
@@ -88,7 +88,7 @@ I'm continuously building, experimenting, and adding new projects to my GitHub.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -116,7 +116,7 @@ I'm continuously building, experimenting, and adding new projects to my GitHub.
 
 ---
 
-# 📚 What I'm Learning
+## 📚 What I'm Learning
 
 ```text
 Data Structures & Algorithms
@@ -136,7 +136,7 @@ I'm especially interested in understanding not just **how to use a technology**,
 
 ---
 
-# 🧠 Problem Solving
+## 🧠 Problem Solving
 
 I regularly practice DSA and algorithmic problem solving.
 
@@ -158,7 +158,7 @@ I regularly practice DSA and algorithmic problem solving.
 
 ---
 
-# 📌 GitHub Activity
+## 📌 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykumar90537&repo=CyberInspect"/>
@@ -172,7 +172,7 @@ I regularly practice DSA and algorithmic problem solving.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -196,7 +196,7 @@ I regularly practice DSA and algorithmic problem solving.
 
 ---
 
-# 💭 Developer Philosophy
+## 💭 Developer Philosophy
 
 <p align="center">
 <i>
