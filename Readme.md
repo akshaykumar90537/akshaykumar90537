@@ -67,36 +67,6 @@ I'm continuously building, experimenting, and adding new projects to my GitHub.
   </a>
 </p>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaykumar90537&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar90537&layout=compact&hide_border=true&langs_count=8" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akshaykumar90537&hide_border=true" width="70%"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar90537&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar90537&theme=flat&no-frame=true&margin-w=10&row=1" width="100%"/>
-</p>
-
----
 
 # 💻 Coding Profiles
 
